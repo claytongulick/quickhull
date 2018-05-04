@@ -2,7 +2,7 @@
   "name": "quickhull",
   "version": "1.0.2",
   "description": "A pure javascript implementation of the QuickHull algorithm for finding the smallest polygon enclosing a set of points",
-  "main": "quickhull.js",
+  "main": "./quickhull.js",
   "scripts": {
     "test": "jest ."
   },
