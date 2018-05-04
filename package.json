@@ -1,0 +1,26 @@
+{
+  "name": "quickhull",
+  "version": "1.0.0",
+  "description": "A pure javascript implementation of the QuickHull algorithm for finding the smallest polygon enclosing a set of points",
+  "main": "quick_hull.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytongulick/quickhull.git"
+  },
+  "keywords": [
+    "quickhull",
+    "polygon"
+  ],
+  "author": "Clayton Gulick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claytongulick/quickhull/issues"
+  },
+  "homepage": "https://github.com/claytongulick/quickhull#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
